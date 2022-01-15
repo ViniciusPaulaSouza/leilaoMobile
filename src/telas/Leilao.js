@@ -8,7 +8,7 @@ export default function Leilao(){
         <Image source ={topo}  style={estilo.topo}/>
         <Text style = {estilo.titulo}> Detalhes do Leilão </Text>
         <View style ={estilo.leilao}>
-            <Text style ={estilo.nome}>Leilão de  Reprodutores</Text>
+            <Text style ={estilo.nome}>Leilão de Reprodutores</Text>
             <View style = {estilo.fazenda}> 
                 <Image source={logo} style={estilo.logoFazenda}></Image>
                 <Text style ={estilo.nomeFazenda}>Toka do Jacré</Text>
